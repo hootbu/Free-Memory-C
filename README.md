@@ -17,4 +17,4 @@ This project provides a simple utility to check the available RAM on your system
 ![image](https://github.com/user-attachments/assets/5c6f94bd-96bc-4f98-a540-a6d7d1aa184b)
 
 #### Created Bash Script and Its Usage
-![image](https://github.com/user-attachments/assets/0e610db3-6bfb-4ec1-8fb3-808f59ce790c)
+![image](https://github.com/user-attachments/assets/864a3241-c295-4038-abc3-01837897dac4)
